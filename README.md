@@ -1,18 +1,4 @@
-### Hi there 👋, Md. Tohidur Rahman
-#### Web Developer
-
-Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript  / REACT  / Node
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdtohid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tohid-sagor-a02087262/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.tohidur.rahman.714)  
-
- 
-
-
-
-
-
-
-
+![](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/299762869_1381817712346577_1738144138921311506_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=GJJBpcF9244AX_m79Lz&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBzv8RWZfzTTP6pnPb7f--jJ8tU6TpTCi9F9NxpcKOy3w&oe=6478337F)
 
 <h1 align="center">Hi 👋, I'm Md.Tohidur Rahman</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
