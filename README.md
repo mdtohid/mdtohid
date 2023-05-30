@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-tohid-sagor-a02087262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tohid-sagor-a02087262" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-tohidur-rahman-a02087262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tohid-sagor-a02087262" height="30" width="40" /></a>
 <a href="https://fb.com/md.tohidur.rahman.714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.tohidur.rahman.714" height="30" width="40" /></a>
 </p>
 
